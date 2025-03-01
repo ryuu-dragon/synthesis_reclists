@@ -1,0 +1,62 @@
+Symbol	IPA	Example
+
+ii 	ɹ̩ ~ ɻ̩ 	ri (-i)
+i 	i 	yi (-i)
+u 	u 	wu (-u)
+v 	y 	yu (-u/-ü)
+o 	o 	o (-o)
+ee 	e 	ê (-ê )
+e 	ɤ 	e (-e)
+a 	a 	a (-a)
+ie 	je 	ye (-ie)
+io 	jo 	yo (-io)
+ia 	ja 	ya (-ia)
+uo 	wo 	wo (-uo)
+ua 	wa 	wa (-ua)
+ve 	ɥe 	yue (-ue/-üe)
+ei 	ei̯ 	ei (-ei)
+ai 	ai̯ 	ai (-ai)
+ou 	ou̯ 	ou (-ou)
+ao 	au̯ 	ao (-ao)
+iu 	jou̯ 	you (-iu)
+iao 	jau̯ 	yao (-iao)
+ui 	wei̯ 	wei (-ui)
+uai 	wai̯ 	wai (-uai)
+in 	in 	yin (-in)
+vn 	yn 	yun (-un/-ün)
+en 	ən 	en (-en)
+an 	an 	an (-an)
+ian 	jɛn 	yan (-ian)
+un 	wən 	wen (-un)
+uan 	wan 	wan (-uan)
+van 	ɥɛn 	yuan (-uan/-üan)
+ing 	iŋ 	ying (-ing)
+ong 	ʊŋ 	tong (-ong)
+eng 	əŋ 	eng (-eng)
+ang 	aŋ 	ang (-ang)
+iong 	jʊŋ 	yong (-iong)
+iang 	jaŋ 	yang (-iang)
+ueng 	wəŋ 	weng (-ueng)
+uang 	waŋ 	wang (-uang)
+
+b 	p 	ba
+p 	pʰ 	pa
+m 	m 	ma
+f 	f 	fa
+d 	t 	da
+t 	tʰ 	ta
+n 	n 	na
+l 	l 	la
+g 	k 	ga
+k 	kʰ 	ka
+h 	x 	ha
+j 	t͡ɕ 	ji
+q 	t͡ɕʰ 	qi
+x 	ɕ 	xi
+zh 	ʈ͡ʂ 	zha
+ch 	ʈ͡ʂʰ 	cha
+sh 	ʂ 	sha
+r 	ʐ 	re
+z 	t͡s 	za
+c 	t͡sʰ 	ca
+s 	s 	sa
